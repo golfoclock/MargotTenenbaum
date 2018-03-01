@@ -11,27 +11,25 @@ html {
     font-size: 1em;
     line-height: 1;
     height: 100%;
+    margin: 2.5%;
 
-}
-
-.container{
-	width: 80%;
-	margin: auto;
-	overflow: hidden;
 }
 
 header{
-	background: #f06292;
+	background-color: blue;
 	color: #ffffff;
 	padding-top: 30px;
 	min-height: 70px;
-	border-bottom: pink 3px solid;
+	border-bottom: #000000 5px solid;
 }
 
-nav ul {
-	list-style-type: none;
+header nav ul li {
+	float: center;
 	display: inline-block;
+	padding: 0 20px 0 20px;
 }
+
+
 
 
 
