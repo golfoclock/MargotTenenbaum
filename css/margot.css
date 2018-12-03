@@ -7,21 +7,15 @@
 
 html {
     font-family: 'Reem Kufi', sans-serif;
-    font-size: 100%;
     font-size: 1em;
     line-height: 1;
-    height: 100%;
     margin: 0;
-    border: 10px solid #9A8822;
 
 }
-
-header{
-	background-color: #EB7F8F;
-	color: #FBDBA8;
-	padding: 2px;
-	margin-bottom: 2px;
-	min-height: 100%;
+#homepage {
+	background-image: url("img/family_illustrated.jpg");
+	
+	
 }
 
 #nav {
@@ -42,6 +36,7 @@ header{
 	color: #FBDBA8;
 	background-color: #9A8822;
 	text-transform: uppercase;
+	text-decoration: none;
 
 }
 
