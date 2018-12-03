@@ -11,7 +11,8 @@ html {
     font-size: 1em;
     line-height: 1;
     height: 100%;
-    margin: 0% 2.5% 2.5% 2.5%;
+    margin: 0;
+    border: 10px solid #9A8822;
 
 }
 
@@ -21,7 +22,6 @@ header{
 	padding: 2px;
 	margin-bottom: 2px;
 	min-height: 100%;
-	border-bottom: #000000 2px solid;
 }
 
 #nav {
@@ -61,9 +61,27 @@ header{
 }
 
 
+#showcase {
+	min-height: 400px;
+	height: 100%;
+	background-position: center;
+	text-align: center;
+	color: #f06292;
+	opacity: 1.0;
+	
 
 
+}
 
+#showcase p {
+	font-size: 20px;
+
+}
+
+.bus-img {
+	height: 667px;
+	width: 1280px;
+}
 
 
 
