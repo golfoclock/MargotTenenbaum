@@ -80,6 +80,36 @@ html {
 	width: 1280px;
 }
 
+/*ABOUT PAGE*/
+
+#about {
+	background-color: #F99F96;
+}
+
+#about-nav {
+	list-style-type:none;
+	margin-top: 5em;
+	margin-bottom: 1em;
+	text-align: center;
+
+}
+
+#about-nav li {
+	display: inline;
+	padding: 25px;
+}
+
+#about-nav a {
+	display:inline;
+	text-align:center;
+	padding: 1em;
+	color: #FBDBA8;
+	background-image: url('notecard.png');
+	text-transform: uppercase;
+	text-decoration: none;
+
+}
+
 
 
 
