@@ -82,8 +82,12 @@ html {
 
 /*ABOUT PAGE*/
 
-#about {
+.about {
 	background-color: #F99F96;
+}
+
+.about header {
+	padding: 5%;
 }
 
 #about-nav {
@@ -97,17 +101,35 @@ html {
 #about-nav li {
 	display: inline;
 	padding: 25px;
+	background-image: url('img/notecard.png');
+	background-repeat: no-repeat;
+	margin: 5px;
+	width: calc(100% / 4);
+	border: 2px solid white;
 }
 
 #about-nav a {
 	display:inline;
 	text-align:center;
-	padding: 1em;
-	color: #FBDBA8;
-	background-image: url('notecard.png');
+	padding: 5%;
+	color: #000;
 	text-transform: uppercase;
 	text-decoration: none;
+	font-family: 'Cutive Mono', monospace;
+	font-size: 18px;
 
+}
+
+.about-textbox {
+	margin-left: 10%;
+	margin-right: 10%
+}
+
+.photo {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 
