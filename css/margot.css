@@ -43,17 +43,17 @@ html {
 #branding {
 	margin-top: 5em;
 	margin-bottom: 1em;
-	text-align: right;
-	padding-right: 4%;
+	text-align: center;
 }
 
 #branding h1 {
-	font-size: 3vw;
+	font-size: 6vw;
 	color: #FBDBA8;
+	text-transform: uppercase;
 }
 
 #branding h2 {
-	font-size: 2vw;
+	font-size: 3vw;
 	color: #FBDBA8;
 }
 
