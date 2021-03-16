@@ -122,7 +122,7 @@ blockquote {
 	width: 100%;
 	text-align: center;
 	font-family: 'Bodoni Moda', serif;
-	font-size: 22px;
+	font-size: 20px;
 	text-transform: uppercase;
 	color: #008268;
 }
@@ -141,6 +141,22 @@ address {
 	padding: 20px;
 	font-size: 14px;
 	text-transform: none;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
 }
 
 /*----MEDIA QUERIES-----*/
