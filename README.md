@@ -8,5 +8,5 @@ Margot Tenenbaum is a fictional character from director Wes Anderson's film, The
 * JavaScript
 
 ## Credit:
-Zebra background art credit is due to graphic artist, Sydney Koffler.
+Zebra background artistic credit is due to artist, Sydney Koffler.
 Please support her work: [Sydney Koffler](https://www.redbubble.com/people/SydneyKoffler)
